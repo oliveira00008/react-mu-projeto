@@ -5,7 +5,7 @@ function HelloWorld() {
     return (
         <di>
             <Frase></Frase>
-            <h1>Meu primeiro componente</h1>
+            <h1>Meu primeiro componentes</h1>
             <Frase></Frase>
         </di>
     )
